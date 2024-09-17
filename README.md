@@ -1,10 +1,6 @@
-Microsoft -Classifying Cybersecurity Incidents
-
-README
-
 Project Title
 -------------
-Fraud Detection in Financial Transactions
+Microsoft -Classifying Cybersecurity Incidents
 
 Project Overview
 ----------------
